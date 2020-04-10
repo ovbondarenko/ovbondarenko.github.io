@@ -1,0 +1,43 @@
+html{
+    margin:10;
+    padding:10;
+}
+
+
+
+body{
+    background-color:rgb(255, 241, 218);
+}
+h1{
+    color: navy;
+}
+
+p{
+    color:rgb(88, 128, 189);
+}
+
+h3{
+    color:darkblue;
+    font-family:"Console"
+}
+li{
+    border: 5px solid orange;
+    text-align: center;
+    margin: 10px;
+    padding: 3%;
+}
+li a{
+    color:red
+}
+
+* {
+    padding: 0px
+}
+
+.noway {
+    text-decoration:line-through;
+}
+
+#linkedin {
+    font-size:20;
+}
