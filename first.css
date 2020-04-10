@@ -6,7 +6,7 @@ html{
 
 
 body{
-    background-color:rgb(255, 241, 218);
+    background-color: darkturquoise;
 }
 h1{
     color: navy;
@@ -21,13 +21,13 @@ h3{
     font-family:"Console"
 }
 li{
-    border: 5px solid orange;
+    border: 2px solid rgb(62, 78, 172);
     text-align: center;
     margin: 10px;
     padding: 3%;
 }
 li a{
-    color:red
+    color:orange
 }
 
 * {
